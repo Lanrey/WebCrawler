@@ -1,5 +1,5 @@
 
-package csc302;
+package WebCrawler;
 
 import javafx.scene.layout.GridPane;
 import java.util.List;

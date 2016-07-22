@@ -1,5 +1,5 @@
 
-package csc302;
+package WebCrawler;
 import java.util.List;
 
 public class Retrieve 

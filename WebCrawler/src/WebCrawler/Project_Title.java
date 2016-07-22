@@ -1,5 +1,5 @@
 
-package csc302;
+package WebCrawler;
 
 import javafx.stage.Stage;
 import javafx.scene.layout.GridPane;
@@ -25,7 +25,7 @@ public class Project_Title extends GridPane
         setHeight(15);       
         
         //Text containing the title for the header
-        Text HeaderText = new Text("CRAWLER FOR CSC 302 PROJECT");      
+        Text HeaderText = new Text("WebCrawler");
         HeaderText.setFill(Color.BLACK);
         HeaderText.setStyle(css2);      
         setStyle(css1);      
